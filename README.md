@@ -10,9 +10,16 @@ Pour me préparer concrètement au métier de Développeur, j’ai choisi la voi
 Je suis actuellement à la recherche de l’entreprise qui me permettra d’allier enseignement théorique et formation pratique.
  
 ✨ Développeur Back-End depuis cinq ans en autodidacte ✨
+👀 Je me forme activement sous les différents Framework JS
+
+## Acquis Solides 💬
+* C#/WPF (Acquis de BTS)
+* Java/EE, JS (Spring boot, Angular React)
+* VBA et SQL Server (Stage BTS)
+* Php/Laravel (Stage BTS)
 
 <!-- Portfolio -->
-## ⚡ Mon portfolio ⚡
+## ⚡ Mon portfolio ⚡ (Angular 13)
 * [Mon portfolio 😄](https://alexandrehecart.fr/)
 
 <!--
