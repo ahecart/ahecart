@@ -1,4 +1,7 @@
-### Bienvenue sur ma page github 👋 
+<br />
+<div align="center">
+  <h2 align="center">Bienvenue sur ma page github 👋</h2>
+</div>
 
 <!-- ABOUT ME -->
 ## À propos de moi 
