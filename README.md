@@ -6,7 +6,7 @@
 <!-- ABOUT ME -->
 ## À propos de moi 
 
-Actuellement étudiant en classe de BTS SIO option SLAM, 
+Récemment diplomé d'un BTS Services informatiques aux organisations option SLAM, 
 je souhaite intégrer dès la rentrée prochaine un cursus L3 Informatique / Cybersécurité au CNAM de Montpellier.
 
 Pour me préparer concrètement au métier de Développeur, j’ai choisi la voie de l’alternance.
