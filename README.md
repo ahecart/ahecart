@@ -7,10 +7,9 @@
 ## À propos de moi 
 
 Récemment diplomé d'un BTS Services informatiques aux organisations option SLAM, 
-je souhaite intégrer dès la rentrée prochaine un cursus L3 Informatique / Cybersécurité au CNAM de Montpellier.
+je suis actuellement en L3 Informatique & Cybersécurité au CNAM de Montpellier.
 
-Pour me préparer concrètement au métier de Développeur, j’ai choisi la voie de l’alternance.
-Je suis actuellement à la recherche de l’entreprise qui me permettra d’allier enseignement théorique et formation pratique.
+Pour me préparer concrètement au métier de Développeur, j’ai choisi la voie de l’alternance. 
  
 ✨ Développeur Back-End depuis cinq ans en autodidacte ✨
 👀 Je me forme activement sous les différents Framework JS
