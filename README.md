@@ -6,35 +6,23 @@
 <!-- ABOUT ME -->
 ## À propos de moi 
 
-Récemment diplomé d'un BTS Services informatiques aux organisations option SLAM, 
-je suis actuellement en L3 Informatique & Cybersécurité au CNAM de Montpellier.
+Récemment diplômé d'un BTS Services informatiques aux organisations option SLAM & Licence générale mention Informatique & Cybersécurité,
+je suis actuellement dans un cursus visant l'obtention d'ingénieur mention Informatique option Cybersécurité au CNAM de Montpellier.
 
 Pour me préparer concrètement au métier de Développeur, j’ai choisi la voie de l’alternance. 
  
-✨ Développeur Back-End depuis cinq ans en autodidacte ✨
-👀 Je me forme activement sous les différents Framework JS
+✨ Développeur Full-stack / Devops depuis cinq ans ✨
+👀 Je me forme activement sur la sécurité des systèmes, aux partiques du DevOps ainsi qu'aux différents Frameworks JS.
 
-## Acquis Solides 💬
-* C#/WPF (Acquis de BTS)
-* Java/EE, JS (Spring boot, Angular React)
-* VBA et SQL Server (Stage BTS)
+## Acquis Solides 💬 
+* Frameworks Javascript (Node.js, Angular & Spring boot)
+* Pratiques Devops sous Gitlab (SAST, Tests U/I/E2E, Compilation, Terraform)
+* VBA et SQL Server (BTS)
 * Php/Laravel (Stage BTS)
+* C#/WPF (Acquis de BTS)
 
 <!-- Portfolio -->
-## ⚡ Mon portfolio ⚡ (Angular 13)
+## ⚡ Mon portfolio ⚡ (Angular & Springboot)
 * [Mon portfolio 😄](https://alexandrehecart.fr/)
 
-<!--
-**ahecart/ahecart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mes projets
